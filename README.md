@@ -1,3 +1,4 @@
 # learning
-this is first Git repository
+This is first Git repository.
+<br>
 Handel by Prasad Patil
